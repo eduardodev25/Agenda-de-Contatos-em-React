@@ -17,3 +17,7 @@ Hover effects nos cards e botões para interação agradável
 ## 🛠️ Tecnologias Utilizadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
+
+## 🖼️ Preview
+
+[![Preview do Projeto](./assets/preview.png)](https://agenda-de-contatos-em-react.vercel.app/)
