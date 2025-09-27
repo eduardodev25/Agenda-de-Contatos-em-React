@@ -20,4 +20,4 @@ Hover effects nos cards e botões para interação agradável
 
 ## 🖼️ Preview
 
-[![Preview do Projeto](./assets/preview.png)](https://agenda-de-contatos-em-react.vercel.app/)
+[![Veja o projeto online](https://img.shields.io/badge/🔗%20Ver%20Projeto%20Online-purple?style=for-the-badge)](https://agenda-de-contatos-em-react.vercel.app)
